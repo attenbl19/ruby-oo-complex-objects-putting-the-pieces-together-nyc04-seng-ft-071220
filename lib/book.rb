@@ -22,6 +22,7 @@ class Book
   
   def ppage_count
     @page_count
+  end
 
 end
 
