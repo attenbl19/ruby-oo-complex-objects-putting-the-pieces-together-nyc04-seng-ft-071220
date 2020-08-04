@@ -11,4 +11,9 @@ class Shoe
   def shoe_color=(shoe_color)
     @shoe_color = shoe_color
   end
+  
+  def shoe_color
+    @shoe_color
+  end
+  
 end
