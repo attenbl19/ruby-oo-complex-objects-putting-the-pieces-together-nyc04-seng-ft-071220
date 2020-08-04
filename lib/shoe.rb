@@ -7,4 +7,6 @@ class Shoe
   def brand
     @brand
   end
+  
+  def shoe_color=()
 end
